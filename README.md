@@ -24,7 +24,11 @@ Un script corto que fuerza la apertura de sitios web en una ventana flotante ind
 
 ## 🛠️ Requisitos Generales
 *   Python 3.x
-*   (Cada script tendrá sus librerías específicas listadas arriba)
+*   Instalacion de la libreria *webview*
+  ```bash
+# Instalar la librería necesaria
+pip install pywebview
+```
 
 ---
 *Próximamente más scripts...*
